@@ -1,52 +1,99 @@
-# [Silvia Moran CV Theme](https://moran3277.github.io)
+# 👩‍💻 Portafolio Profesional de Silvia Morán
 
-[![Screenshot](.github/preview.webp)]([https://moran3277.github.io]
+[![Vista previa del sitio](.github/preview.webp)](https://moran3277.github.io)
 
-The Moran **Academic CV Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
+Bienvenida/o a mi portafolio profesional. Soy **Silvia Morán**, alumna de **Ingeniería de Sistemas e Informática** en la **Universidad Continental**, **Licenciada en Negocios Internacionales** y profesional en el **Ministerio de Agricultura y Riego del Perú – MIDAGRI**. Cuento con especialización en **gestión de proyectos** y **sistematización de procesos**.
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://moran.com/templates/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)]([https://twitter.com/GetResearchDev](https://x.com/smmoran77))
+Este espacio digital resume mi trayectoria, competencias técnicas y proyectos desarrollados con el objetivo de proyectarme profesionalmente.
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, Silvia Morán Builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+---
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+## 🚀 Contenidos del Portafolio
 
-[Check out the latest demo](https://academic-demo.netlify.app/) of what you'll get in less than 10 minutes, or [get inspired by our academics and research groups](https://hugoblox.com/creators/).
+- 📄 CV profesional interactivo y en PDF
+- 💻 Proyectos desarrollados con tecnologías actuales
+- 📸 Imágenes de soluciones implementadas
+- 📚 Publicaciones y artículos académicos
+- 🛠️ Herramientas y lenguajes utilizados
 
-The integrated [**Silvia Builder**](https://smma3277.com) and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Silvia]([https://moran3277.github.io]), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+---
 
-- 👉 [**Get Started**](https://hugoblox.com/templates/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Silvia Moran community**](https://discord.gg/z8wNYzb) or [**Silvia community**](https://discourse.gohugo.io)
-- 🐦 Twitter:[(https://x.com/smmoran77])
-- ⬇️ **Automatically import your publications from BibTeX** with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter)
-- 💡 [Suggest an improvement](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+## 👩‍💼 Sobre mí
 
-## We ask you, humbly, to support this open source movement
+Soy una profesional con visión estratégica, orientada a resultados y comprometida con el uso de la tecnología para mejorar procesos institucionales y sociales. Combino experiencia en gestión pública con formación en ingeniería y negocios.
 
-Today we ask you to defend the open source independence of the Hugo Blox Builder and themes 🐧
+- 🎓 Ingeniería de Sistemas e Informática – Universidad Continental
+- 🎓 Licenciatura en Negocios Internacionales
+- 🏛️ Profesional MIDAGRI (Ministerio de Agricultura y Riego)
+- 💼 Gestión de proyectos | Sistematización de procesos | Transformación digital
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+---
 
-### [❤️ Click here to become a Sponsor, unlocking awesome perks such as _exclusive academic templates and blocks_](https://hugoblox.com/sponsor/)
+## 💼 Proyectos destacados
 
-<!--
-<p align="center"><a href="https://hugoblox.com/templates/" target="_blank" rel="noopener"><img src="https://hugoblox.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Theme for Hugo Blox Builder"></a></p>
--->
+| Proyecto | Descripción | Tecnologías | Enlace |
+|---------|-------------|-------------|--------|
+| Sistema de Gestión de Peajes Vehiculares | Web y App con interfaz de usuario, control de tarifas, y autenticación. | Balsamiq, React, Node.js | [🔗 Ver proyecto](https://github.com/moran3277/peajes-app) |
+| Asistente Nutricional con IA | App para generar planes alimenticios personalizados con IA generativa. | React, OpenAI, SCRUM | [🔗 Ver demo](https://github.com/moran3277/asistente-nutricional) |
+| Supervisión de Servicios – Programa Cuna Más | Arquitectura empresarial bajo TOGAF para programas sociales. | ArchiMate, PowerDesigner | [🔗 Ver propuesta](https://github.com/moran3277/arquitectura-cunamas) |
+| Simulación Montecarlo – Club Campestre | Modelo de proyección de ingresos con distribución triangular. | Excel, Análisis cuantitativo | [🔗 Ver archivo](https://github.com/moran3277/simulacion-montecarlo-bungalows) |
 
-## Demo image credits
+---
 
-- [Unsplash](https://unsplash.com)
+## 📸 Galería de proyectos
 
-## Latest news
+<p align="center">
+  <img src="assets/peajes_preview.png" width="300" alt="Peajes app">
+  <img src="assets/asistente_nutricional.png" width="300" alt="IA Nutricional">
+  <img src="assets/cunamas.png" width="300" alt="Arquitectura Cuna Más">
+</p>
+
+---
+
+## 📚 Publicaciones y artículos
+
+- **2025** — “El uso estratégico de la inteligencia artificial en la seguridad nacional”
+- **2024** — “TOGAF en la gestión de programas sociales: Caso MIDAGRI”
+- **2023** — “Innovación digital en el agro peruano: Retos y oportunidades”
+
+---
+
+## 📄 Descarga mi CV
+
+- 📎 [Descargar CV en PDF](https://github.com/moran3277/moran3277.github.io/raw/main/CV_Silvia_Moran.pdf)
+
+---
+
+## 🌐 Enlaces de contacto
+
+- 📧 silviamoran@ejemplo.com
+- 💼 [LinkedIn](https://linkedin.com/in/silviamoran)
+- 🌐 [Sitio web en GitHub Pages](https://moran3277.github.io)
+
+---
+
+## 🧠 Tecnologías utilizadas
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+---
+
+## 📰 Últimas novedades
 
 <!--START_SECTION:news-->
 
-- [Easily make an academic CV website to get more cites and grow your audience 🚀](https://hugoblox.com/blog/easily-make-academic-website/)
-- [What&#39;s new in v5.2?](https://hugoblox.com/blog/whats-new-in-v5.2/)
-- [What&#39;s new in v5.1?](https://hugoblox.com/blog/whats-new-in-v5.1/)
-- [Version 5.0 (February 2021)](https://hugoblox.com/blog/version-5.0-february-2021/)
-- [Version 5.0 Beta 3 (February 2021)](https://hugoblox.com/blog/version-5.0-beta-3-february-2021/)
+- Lanzamiento del portafolio profesional de Silvia Morán 🚀
+- Publicación: "Aplicación de simulación Montecarlo para club campestre" 📈
+- Proyecto en desarrollo: “IA para salud y nutrición” 🤖🍎
+
 <!--END_SECTION:news-->
+
+---
+
+_Desarrollado con 💙 usando [GitHub Pages](https://pages.github.com) y herramientas libres de código abierto._
+
