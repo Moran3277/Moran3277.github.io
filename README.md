@@ -1,4 +1,4 @@
-# [Hugo Academic CV Theme](https://moran3277.github.io)
+# [Silvia Moran CV Theme](https://moran3277.github.io)
 
 [![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/)
 
