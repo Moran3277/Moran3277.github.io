@@ -1,6 +1,6 @@
 # [Silvia Moran CV Theme](https://moran3277.github.io)
 
-[![Screenshot](.github/preview.webp)]([https://silviamoran.com/templates/]
+[![Screenshot](.github/preview.webp)]([https://moran3277.github.io]
 
 The Moran **Academic CV Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
 
